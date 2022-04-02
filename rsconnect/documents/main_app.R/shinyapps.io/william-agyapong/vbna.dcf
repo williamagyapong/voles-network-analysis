@@ -1,0 +1,14 @@
+name: vbna
+title: vbna
+username:
+account: william-agyapong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5887597
+bundleId: 5712890
+url: https://william-agyapong.shinyapps.io/vbna/
+when: 1647953887.35364
+lastSyncTime: 1647953887.35365
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Rplots.pdf
