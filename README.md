@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-> See the an interactive web application built with R and Shiny App: <https://william-agyapong.shinyapps.io/vbna/>
+> Visit an accompanying interactive web application built with R and Shiny App here: <https://william-agyapong.shinyapps.io/vbna/>
 
 ## Background
 
